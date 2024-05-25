@@ -34,3 +34,29 @@ a:hover {
     color: rgb(26, 26, 26);
     text-decoration: underline;
 }
+
+.picture {
+    border-radius: 10px;
+    height: 300px;
+    width: auto;
+    box-shadow: 3px 3px rgb(117, 117, 117, 50%);
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(241, 53, 91);
+    text-shadow: 1px 1px rgb(117, 117, 117);
+    }
+
+p, li {
+    font-size: 19px;
+    font-weight: 800;
+    color: rgb(44, 44, 44);
+    text-shadow: 0.5px 0.5px rgb(117, 117, 117);
+    line-height: 40px;
+}
+
+.home-link {
+    line-height: 3;
+}
