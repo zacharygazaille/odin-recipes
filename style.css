@@ -1,0 +1,36 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(224, 255, 255);
+}
+
+h1 {
+    font-size: 50px;
+    color: green;
+    text-shadow: 1.5px 1.5px rgb(117, 117, 117);
+}
+
+.recipes {
+    margin-left: 0;
+    padding-left: 10px;
+}
+
+.recipe {
+    list-style-type: none;
+    margin-left: 0;
+    margin-top: 40px;
+    text-shadow: 1px 1px rgb(117, 117, 117);
+}
+
+a {
+    font-size: 25px;
+    color: rgb(70, 70, 70);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(26, 26, 26);
+    text-decoration: underline;
+}
